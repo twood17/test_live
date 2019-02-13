@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
